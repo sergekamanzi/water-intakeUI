@@ -1,0 +1,3 @@
+# Water Intake Predictor - Machine Learning UI
+
+The **Water Intake Predictor** is a user-friendly machine learning web application that helps users predict their optimal daily water intake based on various factors like age, weight, activity level, and environmental conditions. The application allows users to input personal data, and it utilizes a trained machine learning model to provide a personalized recommendation for daily water consumption. With a simple and intuitive interface, this tool aims to promote better hydration habits by offering precise, scientifically-backed insights to improve overall health and well-being.
